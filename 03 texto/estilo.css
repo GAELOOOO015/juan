@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+
+
+}
+@font-face {
+    font-family: "Roboto";
+    src: local("Roboto"),
+    url("fonts/Roboto-Bold.ttf")format("truetype");
+    
+}
+.roboto{
+    font-family: "Roboto";
+}
+.ara{
+    font-family: 'Playfair Display', serif;
+
+}
+.ara2{
+    font-family: 'Roboto', sans-serif;
+
+}
+.ara3{
+    font-family: 'Roboto', sans-serif;
+}
+.ara4{
+    font-family: 'Playfair Display', serif;
+
+}

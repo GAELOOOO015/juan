@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,41,1) 35%, rgba(0,212,255,1) 100%);
+color: aqua;
+
+}
+div{
+    width: 200px;
+    height: 200px;
+    background:black;
+    padding-top:50px ;
+    padding-left:50px ;
+    padding-bottom:50px ;
+    padding-right: 50px;
+    padding: 20px;
+    margin: 10px;
+    display:inline-block;
+    border: 2px solid white;
+    text-align: center;
+
+}
+#cajita10{
+    margin: 10PX 100px 20px 20px;
+    background-color: white;
+    border: 10px dashed blueviolet;
+}
+#caja1{
+    box-shadow: 0px 0px 100px greenyellow;
+    border-radius: 10% 50% 30% 50%;
+}
+#caja2{
+    padding-block:20px 20px ;
+    background-color: aqua;
+    border: 10px dashed goldenrod;
+}
